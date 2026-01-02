@@ -1,0 +1,3 @@
+/home/nikita/proj/stvlth/speak/build/CMakeFiles/voice.dir
+/home/nikita/proj/stvlth/speak/build/CMakeFiles/edit_cache.dir
+/home/nikita/proj/stvlth/speak/build/CMakeFiles/rebuild_cache.dir

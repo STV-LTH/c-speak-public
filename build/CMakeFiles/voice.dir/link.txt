@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -march=native -ffast-math -O3 -DNDEBUG CMakeFiles/voice.dir/src/main.cpp.o -o voice  -lopus -lportaudio -lasound -lm -lpthread -lpthread 
