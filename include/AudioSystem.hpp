@@ -19,10 +19,10 @@
 #include <map>
 
 // ==================== CONFIG ====================
-constexpr int SAMPLE_RATE = 48000;
-constexpr int FRAME_SIZE = 480;      // 10ms
+constexpr int SAMPLE_RATE = 32000;
+constexpr int FRAME_SIZE = 320;      // 10ms
 constexpr int CHANNELS = 1;
-constexpr int OPUS_BITRATE = 32000;
+constexpr int OPUS_BITRATE = 16000;
 constexpr int NETWORK_PORT = 12345;
 
 // ==================== NETWORK CLASS ====================
